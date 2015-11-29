@@ -16,7 +16,7 @@ Source0:	http://pypi.python.org/packages/source/v/%{module}/%{module}-%{version}
 # Source0-md5:	71168b975eaaa91e65559bcc79290b3b
 URL:		http://pypi.python.org/pypi/virtualenv-clone
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 %if %{with python2}
 BuildRequires:	python-distribute
 BuildRequires:	python-virtualenv

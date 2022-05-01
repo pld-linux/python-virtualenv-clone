@@ -9,7 +9,7 @@
 Summary:	Script to clone virtualenvs
 Name:		python-virtualenv-clone
 Version:	0.2.4
-Release:	3
+Release:	4
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://pypi.python.org/packages/source/v/%{module}/%{module}-%{version}.tar.gz
